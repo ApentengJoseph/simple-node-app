@@ -1,0 +1,16 @@
+{
+    "name": "node-api-app",
+    "version": "1.0.0",
+    "description": "A simple Node.js application that fetches data from a public API and displays it.",
+    "main": "server.js",
+    "scripts": {
+      "start": "node server.js"
+    },
+    "dependencies": {
+      "axios": "^0.21.1",
+      "express": "^4.17.1"
+    },
+    "author": "Apenteng Joseph",
+    "license": "ISC"
+  }
+  
