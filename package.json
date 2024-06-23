@@ -4,7 +4,7 @@
     "description": "A simple Node.js application that fetches data from a public API and displays it.",
     "main": "server.js",
     "scripts": {
-        "start": "node server.js",
+        "start": "node src/server.js",
         "build": "babel src/server.js --out-file dist/server.js"
     },
     "dependencies": {
